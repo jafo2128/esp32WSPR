@@ -1,3 +1,7 @@
+## YouTube - Tech Minds
+YT: https://www.youtube.com/watch?v=s-x50tweSFw&t=36s
+Build Your Own WSPR Beacon For Less Than $20 with an ESP32 and an Si5351!
+
 # ESP32 WSPR Beacon 
 This project is related to a Tech Minds video on how to build a WSPR beacon using an Si5351 and an ESP32 module. The files wihtin this repo are for use with Visual Studio Code.
 
